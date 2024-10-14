@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 Jorge Iñigo, FRM
+
 Welcome to my home page. Please contact me for any comments or questions related to these materials.
 
 Education
