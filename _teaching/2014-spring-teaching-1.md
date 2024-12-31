@@ -1,19 +1,24 @@
 ---
-title: "Teaching experience 1"
+title: "Financial Mathematics"
 collection: teaching
-type: "Undergraduate course"
+type: "Facultad de Actuaría"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
+venue: "Universidad Anáhuac"
 date: 2014-01-01
 location: "City, Country"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+This course is .
 
 Heading 1
 ======
+References:
+Bjork, Arbitrage theory in continuous time (2020) fourth edition, Oxford University Press
 
-Heading 2
+Lecture Slides:
+Lecture 1
+Lecture 2
+Lecture 3
 ======
 
 Heading 3
